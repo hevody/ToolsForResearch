@@ -30,3 +30,5 @@ This had been done by my 10th Grade self and is probably the nerdiest thing I've
 - Integrate AI for analyzing data
 - Fix some bugs
 
+# 2. ???
+Stay tuned, I have another program idea
