@@ -39,4 +39,4 @@ It is pretty helpful in the Review of Related Literature chapter of your researc
 
 Just did it for about 2 hours and me just smashing with my research in Google.
 I'll try to make it as neat as possible in the next developments with good GUI, and make it more accessible. 
-I'll also incorporate csv module.
+I'll also incorporate csv and regex module.
