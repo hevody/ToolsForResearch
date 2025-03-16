@@ -30,5 +30,13 @@ This had been done by my 10th Grade self and is probably the nerdiest thing I've
 - Integrate AI for analyzing data
 - Fix some bugs
 
-# 2. ???
-Stay tuned, I have another program idea
+# 2. ThatOneWebsite.py
+The exact idea I've been thinking. Just made it a while ago. Pretty spaghetti and in beta state, but I'm going to launch it. 
+
+
+Basically, it will go through your browser history which may or may not came from a browser extension. The extension being: Quick Chrome History Export. 
+It is pretty helpful in the Review of Related Literature chapter of your research paper when you just seem to lose that one source in the stack of other websites.
+
+Just did it for about 2 hours and me just smashing with my research in Google.
+I'll try to make it as neat as possible in the next developments with good GUI, and make it more accessible. 
+I'll also incorporate csv module.
